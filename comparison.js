@@ -61,6 +61,11 @@ const didStudy=false;
 const didSleep=true;
 console.log(false==didStudy);
 console.log(10<=15,45>33,10<20,10 == 10,15<20, 2<3,'rahim'=='karim', true!=  false)
-const myread=true;
- const friread=!false;
- console.log(myread==friread);
+//const myread=true;
+ //const friread=!false;
+// console.log(myread==friread);
+ // == mane man ta compare kore data type ba ,=== man and data type both check kore
+// console.log(120=="tomato");
+console.log(10!=10);
+console.log(10!="10");
+ console.log(10!=='10');
