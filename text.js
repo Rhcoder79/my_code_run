@@ -23,11 +23,13 @@ const pai='56.78';
 const lam='12.34';
 const pailam=parseFloat(pai)+parseInt(lam);
 console.log(pailam);
-const my='10.5678';
-const myfix=my.toFixed(1);
-const have='5.5373';
-const havefix=have.toFixed(1);
+const my=10.5678;
+const have=5.5373;
 const myHave=parseFloat(my)+parseFloat(have);
 console.log(myHave.toFixed(1));
-const myhavefix=myfix+havefix;
-console.log(myhavefix);
+
+const round='42.45689754';
+
+const roundFix=parseFloat(round).toFixed(3);
+const roupfl=parseFloat(roundFix);
+ console.log(roupfl);
