@@ -69,3 +69,4 @@ console.log(10<=15,45>33,10<20,10 == 10,15<20, 2<3,'rahim'=='karim', true!=  fal
 console.log(10!=10);
 console.log(10!="10");
  console.log(10!=='10');
+ 
