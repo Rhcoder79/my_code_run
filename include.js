@@ -35,5 +35,5 @@ if(program.includes('rain')){
 //task 7
 const play=['football','cricket','badminton'];
 //console.log(play.includes('vollyball'));
-const playCheck=play.includes('vollyball');
+const playCheck=play.includes('football');
 console.log(playCheck);
