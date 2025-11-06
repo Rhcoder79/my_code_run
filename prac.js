@@ -8,3 +8,4 @@ const car={
 const egg=[];
 console.log(Array.isArray(car));
 console.log(Array.isArray(egg));
+console.log('hello rh');
