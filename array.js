@@ -14,3 +14,4 @@ const color=['black','white','red','blue','pink','green','yellow'];
 console.log(color.length);
 const capital=['dhaka','delhi','london','paris','dubai','islamabad','berlin'];
 console.log(capital.length);
+console.log(Array.isArray(fruit));
